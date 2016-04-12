@@ -13,7 +13,7 @@ How to run
 * Run  	baseline - Cygwin.sh for Windows (On Cygwin)  or baseline.sh (Linux)
 * See the results folder for output
 
-
+```
 These are the current results
 
 processed 11570 tokens with 356 phrases; found: 298 phrases; correct: 163.
@@ -28,3 +28,4 @@ accuracy:  96.28%; precision:  54.70%; recall:  45.79%; FB1:  49.85
           product: precision:  41.67%; recall:  27.78%; FB1:  33.33  12
        sportsteam: precision:  36.36%; recall:  22.22%; FB1:  27.59  11
            tvshow: precision:  50.00%; recall:  12.50%; FB1:  20.00  2
+```
