@@ -31,7 +31,7 @@ accuracy:  96.28%; precision:  54.70%; recall:  45.79%; FB1:  49.85
 ```
 
 Links:
-https://youtu.be/rhruRfZIhlQ
-http://vikas-aggarwal.github.io/twitterNER/
-http://www.slideshare.net/VikasAggarwal35/twitterner-named-entity-recognition-in-twitter
-https://www.dropbox.com/sh/1c2i208glkqkcft/AAAuGQW2GDoWbmMJgpPkaU0za?dl=0
+* https://youtu.be/rhruRfZIhlQ
+* http://vikas-aggarwal.github.io/twitterNER/
+* http://www.slideshare.net/VikasAggarwal35/twitterner-named-entity-recognition-in-twitter
+* https://www.dropbox.com/sh/1c2i208glkqkcft/AAAuGQW2GDoWbmMJgpPkaU0za?dl=0
